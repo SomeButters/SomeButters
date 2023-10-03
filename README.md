@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/dGYdCq9H6O4AAAAd/cat-kitty.gif" width="100"/>
+  <img src="https://media.tenor.com/dGYdCq9H6O4AAAAd/cat-kitty.gif" width="1000"/>
 </div>
 <!--
 **SomeButters/SomeButters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

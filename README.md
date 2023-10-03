@@ -1,6 +1,6 @@
-### Hi there 👋
-What's good?
-
+<div id="header" align="center">
+  <img src="https://tenor.com/view/cat-kitty-cute-adorable-close-up-gif-17662264" width="100"/>
+</div>
 <!--
 **SomeButters/SomeButters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

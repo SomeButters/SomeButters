@@ -7,7 +7,7 @@
 </p>
 
 <p>
-<head font-size: 30px> Hi there :)</head>
+<font size="+2">Hi there :)</font>
 </p>
 
 </body>

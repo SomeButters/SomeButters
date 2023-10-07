@@ -1,25 +1,10 @@
 <!DOCTYPE html>
 <html>
-<head>
-<style>
-p.ex1 {
-  font-size: 30px;
-}
-p.ex2 {
-  font-size: 50px;
-}
-</style>
-</head>
-<body>
-
-<p>This is a normal paragraph.</p>
-<p class="ex1">This is a bigger paragraph.</p>
-<p class="ex2">This is a much bigger paragraph.</p>
 
 <a href="link" style="text-align: center">
   <img src="https://i.imgflip.com/7mipps.gif" alt="hewwo"  width="500" align="middle">
 </a>
-<h1> Hi there. :)</h1>
+<head> Hi there. :)</head>
 
 </body>
 </html>

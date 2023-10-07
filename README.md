@@ -1,3 +1,4 @@
+<!DOCTYPE HTML>
 <HTML>
 <HEAD> What's up? </HEAD>
 <BODY>

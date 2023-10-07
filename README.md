@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  <h1 style="color:red;font-size:40px;">Hi there :)</h1>
+  <h1 style="font-size:100px;">Hi there :)</h1>
 </p>
 
 </body>

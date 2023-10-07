@@ -1,6 +1,6 @@
 <HTML>
 <HEAD> What's up? </HEAD>
 <BODY>
-  <IMG SRC="https://media.tenor.com/WwBJIu1sPMoAAAAC/cat-blink.gif">
+  <img src="https://media.tenor.com/WwBJIu1sPMoAAAAC/cat-blink.gif" alt="Cat funny" style="width:48px;height:48px;">
 </BODY>
 </HTML>

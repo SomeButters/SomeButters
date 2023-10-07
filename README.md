@@ -1,1 +1,1 @@
-<img src="media.tenor.com/WwBJIu1sPMoAAAAC/cat-blink.gif" alt="hewwo"  width="250" />
+<img src="https://i.imgflip.com/7mipps.gif" alt="hewwo"  width="250" />

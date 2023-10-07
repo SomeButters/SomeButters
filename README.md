@@ -7,7 +7,7 @@
 </p>
 
 <p>
-<head> Hi there. :)</head>
+<head font-size: 30px> Hi there :)</head>
 </p>
 
 </body>

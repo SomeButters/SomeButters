@@ -4,10 +4,10 @@
     </head>
     <div class="row">
         <h2 align="left"><font color="white">Hi there :)</font></h2>
-        <div align="left">
+        <div align="left" class="column">
             <img src="https://i.imgflip.com/7mipps.gif" alt="hewwo"  width="500">
         </div>
-        <div align="right">
+        <div align="right" class="column">
             <img src="https://raw.githubusercontent.com/SomeButters/SomeButters/main/garfuumi-v0-t7jbvddegpsb1.png" alt="garf"  width="500">
         </div>
     </div>

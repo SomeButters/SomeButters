@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <style>
-        </style>
     </head>
     <h2 align="left"><font color="white">Hi there :)</font></h2>
     <div align="left">

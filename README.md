@@ -2,9 +2,6 @@
 <html>
     <head>
         <style>
-            body {
-                background: url("https://raw.githubusercontent.com/SomeButters/SomeButters/main/7xN08M.png")
-            }
         </style>
     </head>
     <h2 align="left"><font color="white">Hi there :)</font></h2>

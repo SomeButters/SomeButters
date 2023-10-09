@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<h2 style="font-size:100px align="center";">Hi there :)</h2>
+<h2 align="center">Hi there :)</h2>
 <div align="center">
   <img src="https://i.imgflip.com/7mipps.gif" alt="hewwo"  width="500">
 </div>

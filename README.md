@@ -5,6 +5,7 @@
     <h2 align="left"><font color="white">Hi there :)</font></h2>
     <div align="left">
         <img src="https://i.imgflip.com/7mipps.gif" alt="hewwo"  width="500">
+        hi iam some buetr
     </div>
     <h2 align="right"><font color="white">sleep cat</font></h2>
     <div align="right">

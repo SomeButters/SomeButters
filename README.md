@@ -11,8 +11,9 @@
 </p>
 
 <h2 align="center">sleep cat</h2>
-<img src="https://raw.githubusercontent.com/SomeButters/SomeButters/main/11118094_1296e.gif" align="center" width="150px"></img>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SomeButters/SomeButters/main/11118094_1296e.gif"></img>
+</div>
 
 </body>
 </html>
